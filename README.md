@@ -1,4 +1,4 @@
-# DavtoWavConverter for Trainz Simulator 2021
+# DavtoWavConverter for Train Simulator 2021
 
 Hi there! I've developed a lightweight program for converting .dav files to .wav, designed for use in Trainz Simulator 2021. I encountered the need to extract encrypted sounds from a mod, and this program proved to be a handy solution. If you find yourself in a similar situation, feel free to use it. However, I kindly request fellow developers to credit my GitHub if you decide to incorporate this code into your projects. Thank you for your attention!
 
